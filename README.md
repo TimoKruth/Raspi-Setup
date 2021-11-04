@@ -1,5 +1,5 @@
 # Raspi Setup Scripts
-This setup scripts installs different tools for you. Asking for passwords when needed.
+This setup script installs different tools for you. Asking for passwords when needed.
 
 ## Tools included
 - Docker Host
