@@ -13,3 +13,4 @@ sudo apt install speedtest
 echo "## Install Docker"
 curl -fsSL https://get.docker.com -o downloads/get-docker.sh
 sudo sh downloads/get-docker.sh
+rm downloads/get-docker.sh
